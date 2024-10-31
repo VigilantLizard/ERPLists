@@ -14,4 +14,4 @@
 ## Users in Database
 - [PawteoDerg](https://www.roblox.com/users/332864766/profile)
 - [finniponx](https://www.roblox.com/users/1169876118/profile)
-- Every user [my account](https://www.roblox.com/users/7506583559/profile) follows.
+- Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following).
