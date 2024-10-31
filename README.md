@@ -1,3 +1,5 @@
+# ERP Database
+This is a database that will update [the MFD account list](https://github.com/VigilantLizard/ERPLists/blob/main/AccountList.bin) shortly after [@ModForDummies](https://x.com/ModForDummies) updates their daily list. [My ERP scanner place](https://github.com/VigilantLizard/ERPScannerPlace/tree/main) uses this as an index.
 ## Groups in Database
 - [Voreblox](https://www.roblox.com/groups/34788732/x)
 - [Foxxos](https://www.roblox.com/groups/34282593/x)
@@ -9,9 +11,10 @@
 - [Temple of the Black Goddess](https://www.roblox.com/groups/35008055/x)
 - [It dont fard :(](https://www.roblox.com/groups/34208803/x)
 - [Bottomless Society](https://www.roblox.com/groups/32039471/x)
+- [.nomf.store.](https://www.roblox.com/groups/11728300/x)
 - Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
-## Users in Database
+## Users in Zonkerdoodle Database
 - [PawteoDerg](https://www.roblox.com/users/332864766/profile)
 - [finniponx](https://www.roblox.com/users/1169876118/profile)
 - Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following).
