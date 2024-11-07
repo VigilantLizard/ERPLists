@@ -24,6 +24,7 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [unbearable member](https://www.roblox.com/groups/34466705/x)
 - [Feed Creations](https://www.roblox.com/groups/12047515/x)
 - [a cave](https://www.roblox.com/groups/32022314/x)
+- [The Fursuit ~Group~](https://www.roblox.com/groups/33539681/x)
 - Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
 ## Users in Zonkerdoodle Database
