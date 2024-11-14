@@ -51,7 +51,6 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [ᴇ ʟ ɪ s ᴛ](https://www.roblox.com/groups/16960276) (LOCKED)
 - [Mila's Hangout!!!](https://www.roblox.com/groups/34616910)
 - [Goddess Stella](https://www.roblox.com/groups/1018746)
-- 
 - [Supernova Elite 1.5](https://www.roblox.com/groups/34749564)
 - [Your Little Secret](https://www.roblox.com/groups/34841849)
 - [Freaky Studios!](https://www.roblox.com/groups/7146011)
