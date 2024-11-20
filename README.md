@@ -139,7 +139,8 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [Goddess Pale's Empire](https://www.roblox.com/groups/34911083)
 - [bri's closet .$*](https://www.roblox.com/groups/10564506)
 - [Anonymous Morals](https://www.roblox.com/groups/7761173) (LOCKED)
-- [\[СССР\] Soviet Union](https://www.roblox.com/groups/35061381/)
+- [\[СССР\] Soviet Union](https://www.roblox.com/groups/35061381)
+- [Voyage Beyond Studio](https://www.roblox.com/groups/6446911)
 - Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
 ## Users in Zonkerdoodle Database
