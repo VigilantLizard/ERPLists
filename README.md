@@ -9,7 +9,7 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [- Spades](https://www.roblox.com/communities/35063781)
 - [bleach fan club group](https://www.roblox.com/communities/35054382)
 - [Temple of the Black Goddess](https://www.roblox.com/communities/35008055)
-- [It dont fard :(](https://www.roblox.com/communities/34208803)
+- [It dont fard :(](https://www.roblox.com/communities/34208803) (LOCKED)
 - [Bottomless Society](https://www.roblox.com/communities/32039471)
 - [.nomf.store.](https://www.roblox.com/communities/11728300)
 - [Nom Nom's Hub](https://www.roblox.com/communities/33514065)
@@ -161,6 +161,16 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [Valdyne's Service](https://www.roblox.com/communities/35012218) (LOCKED)
 - [Village Access](https://www.roblox.com/communities/34624282) (LOCKED)
 - [ツ farts](https://www.roblox.com/communities/8068605) (LOCKED)
+- [friendly's fortress](https://www.roblox.com/communities/34934996) (LOCKED)
+- [~ Yuki's Place ~](https://www.roblox.com/communities/35018782)
+- [\~Inf Game\~](https://www.roblox.com/communities/34538126)
+- [Syndneys Club](https://www.roblox.com/communities/35047101) (LOCKED)
+- [THE TLKERS GROUP](https://www.roblox.com/communities/753776) (LOCKED)
+- [nekomancer](https://www.roblox.com/communities/16318534)
+- [littl doll](https://www.roblox.com/communities/15455684) (LOCKED)
+- [Q_S](https://www.roblox.com/communities/35174729) (LOCKED)
+- [Spade Nation Clan](https://www.roblox.com/communities/15810422) (LOCKED)
+- [qOsGrOup12 ](https://www.roblox.com/communities/34010985) (LOCKED)
 - Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
 ## Users in Zonkerdoodle Database
