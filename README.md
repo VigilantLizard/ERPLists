@@ -1,6 +1,7 @@
 # ERP Database
 This is a database that will update [the MFD account list](https://github.com/VigilantLizard/ERPLists/blob/main/AccountList.bin) shortly after [@ModForDummies](https:/.com/ModForDummies) updates their daily list. [My ERP scanner place](https://github.com/VigilantLizard/ERPScannerPlace/tree/main) uses this as an index.
 ## Groups in Database
+**NOTE:** I am currently migrating the ERP groups from my account to this GitHub list, so expect the ERP scanner script to not work correctly at times because of this.
 - [Voreblox](https://www.roblox.com/communities/34788732/x)
 - [Foxxos](https://www.roblox.com/communities/34282593/x)
 - [Nomblox Revived](https://www.roblox.com/communities/34640640/x)
@@ -175,6 +176,29 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [- f4iryli3s -](https://www.roblox.com/communities/6458502/x)
 - [- Obsesión -](https://www.roblox.com/communities/15713304/x)
 - [-‘๑’-](https://www.roblox.com/communities/13163042/x)
+- [-$ Certified Kid$](https://www.roblox.com/communities/8791955/x)
+- [-Daddy's home-](https://www.roblox.com/communities/34437676/x)
+- [-Dishonorable Designs-](https://www.roblox.com/communities/14324390/x)
+- [!kwittens](https://www.roblox.com/communities/33456608/x)
+- ['crush](https://www.roblox.com/communities/9455955/x)
+- [‘crush](https://www.roblox.com/communities/13833400/x)
+- [« Possibilities! »](https://www.roblox.com/communities/14756635/x)
+- [\[ Content Deleted 17152761 \]](https://www.roblox.com/communities/17152761/x)
+- [\[ Content Deleted 5567078 \]](https://www.roblox.com/communities/5567078/x)
+- [［!Ｍｆｄｄｓ!］](https://www.roblox.com/communities/35114972/x)
+- [#P4WORLD](https://www.roblox.com/communities/11166218/x)
+- [+\*Furry pack+\*](https://www.roblox.com/communities/8921301/x)
+- [~LOVE THE VIBES~](https://www.roblox.com/communities/9593321/x)
+- [~Nomvee Group~](https://www.roblox.com/communities/34392688/x)
+- [$KRIPPA'S](https://www.roblox.com/communities/34811035/x)
+- [63 Content](https://www.roblox.com/communities/33849843/x)
+- [A Prime Hub](https://www.roblox.com/communities/32696159/x)
+- [Ace Obbies](https://www.roblox.com/communities/11106229/x)
+- [ACED'](https://www.roblox.com/communities/34944555/x)
+- [AingChuu(MelonChuu)](https://www.roblox.com/communities/33432747/x)
+- [amogus skibidi group](https://www.roblox.com/communities/34858197/x)
+- [anima;l hangout](https://www.roblox.com/communities/3842121/x)
+- [Awesome group aaa :3](https://www.roblox.com/communities/33540234/x)
 - Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
 ## Users in Zonkerdoodle Database
