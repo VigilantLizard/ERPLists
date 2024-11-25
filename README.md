@@ -228,4 +228,5 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [freakyhoneypie](https://www.roblox.com/users/7566965403/profile)
 - [skyythebunny](https://www.roblox.com/users/7242340089/profile)
 - [IJustBeGettingBanned](https://www.roblox.com/users/7509170044/profile)
+- [Acrais2100](https://www.roblox.com/users/1630203571/profile) (TERMINATED)
 - Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following).
