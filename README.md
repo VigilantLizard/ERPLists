@@ -273,6 +273,17 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [xhnaa](https://www.roblox.com/communities/13680186/xhnaa#!/about)
 - [オカルティズム](https://www.roblox.com/communities/33604546/unnamed#!/store)
 - [ツ Spades](https://www.roblox.com/communities/4554783/Spades#!/about)
+- [bigpaws](https://www.roblox.com/communities/34459007/bigpaws#!/about)
+- [•D e u x | C l o s e t•](https://www.roblox.com/communities/33142111/D-e-u-x-C-l-o-s-e-t#!/about)
+- [• B a d G u y •](https://www.roblox.com/communities/10173989/B-a-d-G-u-y#!/about)
+- [worship of renekton](https://www.roblox.com/communities/34270086/worship-of-renekton#!/about)
+- [‹ wildfurry ›](https://www.roblox.com/communities/34152807/wildfurry#!/about)
+- [The_FurryHot Group Fans](https://www.roblox.com/communities/12442284/The-FurryHot-Group-Fans#!/about)
+- [group owo hairy cool](https://www.roblox.com/communities/33854939/group-owo-hairy-cool#!/about)
+- [Bara Hangout](https://www.roblox.com/groups/5974953/Bara-Hangout#!/about)
+- [Baruk Clothing](https://www.roblox.com/groups/34089920/Baruk-Clothing)
+- [FurFlex](https://www.roblox.com/groups/4259091/FurFlex)
+- [GlamrockFreddy's FanClub](https://www.roblox.com/groups/4934498/GlamrockFreddy-s-FanClub)
 - Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
 ## Users in Zonkerdoodle Database
