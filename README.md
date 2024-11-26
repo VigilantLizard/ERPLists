@@ -1,7 +1,6 @@
 # ERP Database
 This is a database that will update [the MFD account list](https://github.com/VigilantLizard/ERPLists/blob/main/AccountList.bin) shortly after [@ModForDummies](https:/.com/ModForDummies) updates their daily list. [My ERP scanner place](https://github.com/VigilantLizard/ERPScannerPlace/tree/main) uses this as an index.
 ## Groups in Database
-**NOTE:** I am currently migrating the ERP groups from my account to this GitHub list, so expect the ERP scanner script to not work correctly at times because of this.
 - [Voreblox](https://www.roblox.com/communities/34788732/x)
 - [Foxxos](https://www.roblox.com/communities/34282593/x)
 - [Nomblox Revived](https://www.roblox.com/communities/34640640/x)
@@ -285,7 +284,6 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [FurFlex](https://www.roblox.com/groups/4259091/FurFlex)
 - [GlamrockFreddy's FanClub](https://www.roblox.com/groups/4934498/GlamrockFreddy-s-FanClub)
 - [Frog's Pond](https://www.roblox.com/communities/12344272/Frogs-Pond#!/about)
-- Every group [my account](https://www.roblox.com/users/7506583559/profile) is in.
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
