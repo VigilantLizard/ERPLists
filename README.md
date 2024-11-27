@@ -119,7 +119,7 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [\[content deleted (33120811)\]](https://www.roblox.com/communities/33120811/x) (LOCKED)
 - ["҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕҈̒̓̕,](https://www.roblox.com/communities/34452883/x) (LOCKED)
 - [\_\_| NELLA |\_\_](https://www.roblox.com/communities/9261176/x) (LOCKED)
-- [BLM :/x)](https://www.roblox.com/communities/7731339/x)
+- [BLM :)](https://www.roblox.com/communities/7731339/x)
 - [\[ Content Deleted 3634347 \]](https://www.roblox.com/communities/3634347/x)
 - [beloved †](https://www.roblox.com/communities/17027840/x)
 - [$C̸ᴏʀʀᴜᴘᴛɪᴏɴ D̸ᴇsᴛʀᴏʏᴇʀs$](https://www.roblox.com/communities/7659197/x)
@@ -284,6 +284,7 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [FurFlex](https://www.roblox.com/groups/4259091/FurFlex)
 - [GlamrockFreddy's FanClub](https://www.roblox.com/groups/4934498/GlamrockFreddy-s-FanClub)
 - [Frog's Pond](https://www.roblox.com/communities/12344272/Frogs-Pond#!/about)
+- [unclean men](https://www.roblox.com/communities/34703059/unclean-men#!/about)
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
