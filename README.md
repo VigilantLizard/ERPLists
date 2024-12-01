@@ -285,6 +285,7 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [GlamrockFreddy's FanClub](https://www.roblox.com/groups/4934498/GlamrockFreddy-s-FanClub)
 - [Frog's Pond](https://www.roblox.com/communities/12344272/Frogs-Pond#!/about)
 - [unclean men](https://www.roblox.com/communities/34703059/unclean-men#!/about)
+- [the four chickens TFC](https://www.roblox.com/communities/16011530/the-four-chickens-TFC#!/about)
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
@@ -318,4 +319,4 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [Shxd3w](https://www.roblox.com/users/1486025095/profile) (TERMINATED)
 - [Soul_King3764](https://www.roblox.com/users/2207731626/profile) (TERMINATED)
 - [LOLOLOLOLOLEISER](https://www.roblox.com/users/1822065439/profile)
-- Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following).
+- ~Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following).~ My account got terminated, refer to [this list](https://www.roblox.com/users/7635268003/friends#!/following) for an expansion.
