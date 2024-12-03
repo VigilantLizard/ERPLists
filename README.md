@@ -291,6 +291,7 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [zoo group of roblox](https://www.roblox.com/communities/34991446/zoo-group-of-roblox#!/about)
 - [\_\_\_-HMS-\_\_\_](https://www.roblox.com/communities/15989443/HMS#!/about)
 - [Adults Only](https://www.roblox.com/communities/5269545/Adults-Only#!/about)
+- [• BƎARS •](https://www.roblox.com/communities/34788547/B-ARS#!/about)
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
