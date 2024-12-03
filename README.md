@@ -286,6 +286,11 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [Frog's Pond](https://www.roblox.com/communities/12344272/Frogs-Pond#!/about)
 - [unclean men](https://www.roblox.com/communities/34703059/unclean-men#!/about)
 - [the four chickens TFC](https://www.roblox.com/communities/16011530/the-four-chickens-TFC#!/about)
+- [\[ Content Deleted 33817334 \]](https://www.roblox.com/communities/33817334/x)
+- ['ρawsie](https://www.roblox.com/communities/10543369/awsie#!/about)
+- [zoo group of roblox](https://www.roblox.com/communities/34991446/zoo-group-of-roblox#!/about)
+- [\_\_\_-HMS-\_\_\_](https://www.roblox.com/communities/15989443/HMS#!/about)
+- [Adults Only](https://www.roblox.com/communities/5269545/Adults-Only#!/about)
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
