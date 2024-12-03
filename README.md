@@ -292,6 +292,12 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [\_\_\_-HMS-\_\_\_](https://www.roblox.com/communities/15989443/HMS#!/about)
 - [Adults Only](https://www.roblox.com/communities/5269545/Adults-Only#!/about)
 - [• BƎARS •](https://www.roblox.com/communities/34788547/B-ARS#!/about)
+- [\[Content Deleted 35238907\]](https://www.roblox.com/communities/35238907/x)
+- [Nova's Fan-Club](https://www.roblox.com/communities/35267978/Novas-Fan-Club#!/about)
+- [Spades & Hearts Collective](https://www.roblox.com/communities/35191282/Spades-Hearts-Collective#!/about)
+- [Black Lives Matter! \[BLM\]](https://www.roblox.com/communities/34007700/Black-Lives-Matter-BLM#!/about)
+- [spade !](https://www.roblox.com/communities/35062509/spade#!/about)
+- [' Sovereignty](https://www.roblox.com/communities/35165568/Sovereignty#!/about)
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
