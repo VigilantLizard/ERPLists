@@ -331,4 +331,4 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [Shxd3w](https://www.roblox.com/users/1486025095/profile) (TERMINATED)
 - [Soul_King3764](https://www.roblox.com/users/2207731626/profile) (TERMINATED)
 - [LOLOLOLOLOLEISER](https://www.roblox.com/users/1822065439/profile)
-- ~Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following).~ My account got terminated, refer to [this list](https://www.roblox.com/users/7635268003/friends#!/following) for an expansion.
+- Every user [my account follows](https://www.roblox.com/users/7506583559/friends#!/following). The last account got terminated, so refer to [this following list](https://www.roblox.com/users/7635268003/friends#!/following) for an expansion.
