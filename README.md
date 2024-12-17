@@ -298,6 +298,8 @@ This is a database that will update [the MFD account list](https://github.com/Vi
 - [Black Lives Matter! \[BLM\]](https://www.roblox.com/communities/34007700/Black-Lives-Matter-BLM#!/about)
 - [spade !](https://www.roblox.com/communities/35062509/spade#!/about)
 - [' Sovereignty](https://www.roblox.com/communities/35165568/Sovereignty#!/about)
+- [•. Welcome butterfly’s! .•](https://www.roblox.com/communities/14806990/Welcome-butterfly-s#!/about)
+- [FMBYS](https://www.roblox.com/communities/16782664/FMBYS#!/about)
 
 ## Users in Zonkerdoodle Database
 - [Innocent3rdGrader](https://www.roblox.com/users/7517654939/profile)
