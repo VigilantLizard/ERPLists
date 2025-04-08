@@ -1,5 +1,5 @@
 # ERP Database
-This is a database that formerly updated [the MFD account list](https://github.com/VigilantLizard/ERPLists/blob/main/AccountList.bin) shortly after [@ModForDummies](https:/x.com/ModForDummies) updated their daily list before they discontinued it. [My ERP scanner place](https://github.com/VigilantLizard/ERPScannerPlace/tree/main) uses this as an index.
+This is a database that formerly updated [the MFD account list](https://github.com/VigilantLizard/ERPLists/blob/main/AccountList.bin) shortly after [@ModForDummies](https://x.com/ModForDummies) updated their daily list before they discontinued it. [My ERP scanner place](https://github.com/VigilantLizard/ERPScannerPlace/tree/main) uses this as an index.
 ## Groups in Database
 - [Voreblox](https://www.roblox.com/communities/34788732/x)
 - [Foxxos](https://www.roblox.com/communities/34282593/x)
